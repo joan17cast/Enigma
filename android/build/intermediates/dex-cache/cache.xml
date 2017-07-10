@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_78a9546d8c64f7a759863936326c0a0a4563bf27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.45.1\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_d5a3c96a53ccb9e9bd473bd1ad65a2d90a4e02de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_3526c772e8c3a8893ee8a37c605db456918ade4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_5e4c87eb2c633b5d90a37e46fd2923285cd49a54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_3aa83e0918864099428506af6ae3d268f1d9b2fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_2dfe13e881eb80d6f1482e14ce908e4bbc7a4ccf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_bbe8f85a1ca79fd523e44fff5e0e3e9fb8596c00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_619a35fb9786ae85bec274f70b9918908b8d7cac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.45.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.45.1_15e9dc0721b266d4aceb43b806aa60adb984c370.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_c4c4459a6acc6268d076c5e6e02340f3b307cb89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_1c3cf72b8afb6f1ea1241f3c3ea31a181cb24d95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_bc02064ef14d2583b866a75893e404dda7f4efc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_3372e7e09f2915fb7de8f4197c06fe81828050c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_132d2e6fcbf151ba0857e7e31912d2b211ce6ec1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1_d5c09f120450dad2bde53cb2d5dbc54897ea0acd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_af5d174a82ca8a1b8d4d55da42038e76b414ff3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.45.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.45.1_90e2fce161bcb018f936dab777325f977e38ce0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_4220a101e44080faf92959b5733a05a50ec4485e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_9b76e3d8d23b086049072dea5b12efed9d985276.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_782bafc053a12c1bd8afe44621a551c862c9834d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_83c34ce66d92d0c191014639a0a65e54d16073bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_c59c4da9b35824b60f08707fa38dc864182fb863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_148f838b2c08fdceaefc120dd0c47e8cd0f1d8a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_c76066ee3d96a6cb2334b0f048415b8692d2e887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1_83a6bda021b862277a36e55c63eb4b1671fe56bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_7d0ea6a7fd344fe6739736036ae64f21540dfa30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_e56abd84f7abf28b6c12decb4437c16a0ed0a2c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_e56b5650202d2b0bfbd53c353f225b7b0332c749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.45.1\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_8770047a9f15d231a43fff008cb6a603d09e1895.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_47031663b2d293a0d0ed7199176156b5f10c2286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_b8299f1ebb4a6df01698b72fa4fd93a7fa84be28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0_a960810d1ea434bc57229cace0aa56fd9db9bd72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_bb91a3374aee52c053984d0db422552522354f28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\Users\sirva\OneDrive\Documents\GitHub\Enigma\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_c2ba75c1ab1972bd970f2f5cb0d05d0874442b44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sirva\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\sirva\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_84af682b165961c50fffb2c0cfb6da1096c88f3f.jar" />
+    </item>
+
+</items>
