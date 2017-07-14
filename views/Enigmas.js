@@ -18,6 +18,8 @@ import {
 import { StackNavigator } from 'react-navigation';
 import * as firebase from 'firebase';
 
+
+
 // Initialize Firebase
 const firebaseConfig = {
   apiKey: "AIzaSyApjVv2fxBkdXmvvfFx8L6YI_RfVAVOCUs",
@@ -25,8 +27,8 @@ const firebaseConfig = {
   databaseURL: "https://enigma-ae63b.firebaseio.com",
   storageBucket: "enigma-ae63b.appspot.com",
 };
-const firebaseApp = firebase.initializeApp(firebaseConfig);
 
+const firebaseApp = firebase.initializeApp(firebaseConfig);
 
 class Enigmas extends React.Component {
   static navigationOptions = {
@@ -43,7 +45,7 @@ class Enigmas extends React.Component {
   };
 }
 listenForItems(itemsRef) {
-    itemsRef.on('value', (snap) => {
+    itemsRef.on('Preguntas', (snap) => {
 
       // get children as an array
       var items = [];
@@ -65,13 +67,14 @@ listenForItems(itemsRef) {
     }
 
   render() {
+    this.componentDidMount();
     return (
       <View style={styles.container}>
         <Image
           style={{width: 150, height: 200}}
           source={require('../img/enigma.png')}
         />
-        
+
         <TextInput
           placeholder='Answer'
           placeholderTextColor="#C1C1C1"
