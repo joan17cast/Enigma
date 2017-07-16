@@ -1,4 +1,4 @@
-/**
+  /**
  * Sample React Native App
  * https://github.com/facebook/react-native
  * @flow
@@ -27,7 +27,7 @@ const firebaseConfig = {
 };
 
 var Enigmas = require('./Enigmas');
-
+var SignUp = require('./SignUp');
 class Login extends React.Component {
   constructor(props) {
     super(props);
@@ -104,7 +104,7 @@ class Login extends React.Component {
           <Text> Login </Text>
         </TouchableHighlight>
 
-        <TouchableHighlight  onPress={this.signUp.bind(this)}>
+        <TouchableHighlight  onPress={() => this.props.navigation.navigate('SignUp')}>
           <Text> Register </Text>
         </TouchableHighlight>
 
